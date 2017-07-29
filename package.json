@@ -1,0 +1,17 @@
+{
+  "name": "midi_music_with_node",
+  "version": "0.0.1",
+  "description": "Making midi music with node and scribbletunes",
+  "main": "music.js",
+  "author": "Brandy Lee Camacho",
+  "license" : "MIT",
+  "repository": "https://github.com/bcamacho/Making-midi-music-with-node.js.git",
+  "dependencies": {
+    "jsmidgen": {
+      "integrity": "sha1-rQr9Y3XrEvUQZAJTk847rsOAWF0=",
+      "resolved": "https://registry.npmjs.org/jsmidgen/-/jsmidgen-0.1.5.tgz",
+      "version": "0.1.5"
+    },
+    "scribbletune": "^0.10.1"
+  }
+}
